@@ -1,0 +1,412 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #FFEDD8;}
+.jo{
+    display: flex;
+    gap:48px ;
+    margin-top: 16px;
+}
+a{
+    border: none;
+}
+.bolo{
+    display: flex;
+    gap: 48px;
+}
+    .lux{
+    width: 241px;
+height: 43px;
+font-family:Playfair Display;
+font-style: italic;
+font-weight: 500;
+font-size: 32px;
+line-height: 43px;
+color: #583101;
+}
+.bolo ul a{
+    width: 60px;
+height: 30px;
+
+font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+color: #583101;
+text-decoration: none;
+}
+.bolo li{
+    font-family:Arial, Helvetica, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+list-style: none;
+
+color: #121619;
+
+}
+.book p{
+    width: 99px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+
+
+color: #EFF5ED;
+}
+.book{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 24px;
+gap: 8px;
+
+width: 100px;
+
+
+background: #583101;
+
+}
+.navbar{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 294px;
+
+position: absolute;
+width: 1352px;
+height: 62px;
+left: 80px;
+top: 80px;
+
+}
+.bad{
+    background-image: url(./image\ 114.svg);
+    width: 1512px;
+height: 820px;
+margin-top: 180px;
+}
+.tt1{
+    text-align: center;
+    margin-left: 360px;
+}
+.comfort p{
+    width: 502px;
+height: 43px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 43px;
+padding-top: 211px;
+margin-left: 223px;
+color: #FFEDD8;
+
+}
+.welcome{
+    width: 939px;
+height: 150px;
+padding-top: 72px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 500;
+font-size: 56px;
+line-height: 75px;
+text-align: center;
+margin-left: -37px;
+color: #FFEDD8;
+}
+.explor{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+
+width: 201px;
+height: 62px;
+
+border: 1px solid #FFEDD8;
+}
+.explor{
+    width: 150px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+
+color: #FFEDD8;   
+margin-left: 699px;
+margin-top: 48px;  
+}
+.check{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 29px 88px;
+gap: 8px;
+
+position: absolute;
+width: 1000px;
+height: 95px;
+left: 156px;
+top: 920px;
+
+background: #583101;
+}
+.jopi{
+    width: 102px;
+height: 30px;
+margin-top: -20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+margin-bottom: 40px;
+text-align: center;
+list-style: none;
+
+color: #FFEDD8;
+}
+.jopi2{width: 40px;
+    height: 48px;
+    display: flex;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    
+    text-align: center;
+        color: #FFEDD8;
+width: 100px;
+height: 48px;
+margin-bottom: 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 48px;
+
+text-align: center;
+
+color: #FFEDD8;
+list-style: none;
+}
+.in{
+    display: flex;
+}
+.fll{
+    display: flex;
+    margin-top: px;
+    gap: 25px;
+   
+}
+.fll img{
+    margin-left: 25px;
+
+}
+.jl{
+    display: flex;
+    margin-top: 18px;
+    gap: 130px;
+}
+.ff{
+    margin-left: -50px;
+}
+.check{
+    display: flex;
+}
+.expl{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 8px;
+z-index: 5;
+width: 200px;
+height: 30px;
+margin-top: 20px;
+margin-left: 25px;
+
+border: 1px solid #FFEDD8;}
+.expl p{
+    width: 181px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+
+color: #FFEDD8;}
+.ll{
+    display: flex;
+}
+.ggh{
+    width: 24px;
+    height: 24px;
+    margin-top: 15px;
+    padding-left: -7px;
+    margin-right: 70px;
+}
+.wee{
+    width: 355px;
+    height: 32px;
+    
+    font-family:initial;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    display: flex;
+    color: #583101;
+    
+}
+.eew{
+    width: 482px;
+    height: 53px;
+    margin-top: 16px;
+    font-family:
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 53px;
+    
+    color: #121619;
+    
+    
+}
+.ewe{
+    width: 554px;
+    height: 180px;
+    margin-top: 16px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    
+    color: #121619;
+    
+}
+.logo{
+    display: flex;
+align-items: center;
+padding: 0px;
+gap: 120px;
+
+width: 1058px;
+height: 713.04px;
+left: 80px;
+top: 1200px;
+}
+.logo img{
+    margin-top: 1200px;
+}
+.foot1{
+    position: absolute;
+width: 474px;
+height: 684.82px;
+left: 884px;
+top: 0px;
+
+background: url(image.png);
+}
+.foot2{
+    position: absolute;
+width: 376.14px;
+height: 486.62px;
+left: 674px;
+top: 226.41px;
+
+background: url(image.png);
+}
+.hot{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.expl5{
+    background-color:#583101 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px 7px;
+    gap: 8px;
+    z-index: 5;
+    width: 200px;
+    height: 30px;
+    margin-top: 30px;
+    
+}
+.expl5 p{
+    width: 90px;
+height: 30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+
+background-color:#583101 ;
+color: #FFEDD8;  
+}
+.cilol p{
+    width: 149px;
+height: 32px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height */
+
+
+color: #583101;
+}
+.cilol img{
+    width: 24px;
+height: 24px;
+
+background: #583101;
+
+}
+.sistema2{
+display: flex;
+align-items: center;
+padding: 24px 0px;
+gap: 347px;
+
+width: 1352px;
+height: 168px;
+top: 2000px;
+
+}
